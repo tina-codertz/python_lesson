@@ -1,0 +1,7 @@
+Word Count: 16
+HELLO WORLD
+PYTHON IS FUN
+I LOVE PROGRAMMING
+CHATGPT HELPS ME LEARN
+CODING MAKES ME HAPPY
+Processed content written to output.txt
